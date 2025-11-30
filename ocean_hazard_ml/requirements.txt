@@ -1,0 +1,11 @@
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+joblib==1.3.2
+nltk==3.8.1
+emoji==2.10.1
+transformers==4.38.2
+torch==2.1.2
+keybert==0.7.0
+sentence-transformers==2.2.2
+requests==2.31.0
