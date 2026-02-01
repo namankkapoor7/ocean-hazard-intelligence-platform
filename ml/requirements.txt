@@ -1,0 +1,15 @@
+yt-dlp
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+emoji
+transformers
+torch
+keybert
+sentence-transformers
+requests
+Flask
+
+
